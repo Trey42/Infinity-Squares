@@ -11,7 +11,9 @@ KEY TO RESTART THE GAME.
 
 MAKE SURE YOU PLAY THE GAME IN FULLSCREEN.
 
-**NOTE** INFINITY SQUARES WILL ONLY RUN PROPERLY ON A NATIVE LINUX INSTALLATION.
+**NOTE** INFINITY SQUARES WILL ONLY RUN PROPERLY ON A NATIVE LINUX INSTALLATION
+AND YOU MUST HAVE THE LATEST VERSION OF OCAML AND THE DEFAULT GRAPHICS LIBRARY
+INSTALLED.
 ================================================================================
 ================================================================================
 ================================================================================
