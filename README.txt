@@ -1,7 +1,6 @@
 ================================================================================
 ================================== READ ME =====================================
 ================================================================================
-
 TO RUN THE GAME, DOWNLOAD THE SOURCE FILES ZIP FOLDER, UNZIP THE FOLDER, NAVIGATE
 TO THE DIRECTORY OF THE UNZIPPED FOLDER AND TYPE "make gui".
 
